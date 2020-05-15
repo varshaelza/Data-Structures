@@ -1,3 +1,4 @@
+//Program to check if sequence of brackets are matched using stack
 #include<stdio.h>
 char arr[100000];
 int top=-1; 
