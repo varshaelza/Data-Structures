@@ -1,3 +1,5 @@
+
+//Program to convert array to minheap
 #include<stdio.h>
 
 int n,a[100000],c=0,b[100000],j=0,t,k;
