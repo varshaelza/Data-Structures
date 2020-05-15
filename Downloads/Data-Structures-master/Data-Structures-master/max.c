@@ -1,3 +1,8 @@
+/*Given a sequence 𝑎1, . . . , 𝑎𝑛 of integers and an integer 𝑚 ≤ 𝑛, find the maximum among {𝑎𝑖, . . . , 𝑎𝑖+𝑚−1} for
+every 1 ≤ 𝑖 ≤ 𝑛 − 𝑚 + 1. A naive 𝑂(𝑛𝑚) algorithm for solving this problem scans each window separately.
+Your goal is to design an 𝑂(𝑛) algorithm.*/
+
+
 #include<stdio.h>
 int big=-1,b=-1,a[100000],m;
 
