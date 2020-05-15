@@ -1,3 +1,5 @@
+//Implement a stack supporting the operations Push(), Pop(), and Max().
+
 #include<stdio.h>
 int arr[1000000],top=-1;
 void push(int d)
